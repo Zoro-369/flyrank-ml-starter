@@ -1,1 +1,1 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+https://zoro-369.github.io/flyrank-ml-starter/
